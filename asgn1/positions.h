@@ -1,0 +1,2 @@
+typedef enum { SIDE, RAZORBACK, TROTTER, SNOUTER, JOWLER } Position;
+const Position pig[7] = { SIDE, SIDE, RAZORBACK, TROTTER, SNOUTER, JOWLER, JOWLER };
