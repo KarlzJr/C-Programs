@@ -1,3 +1,5 @@
-# CSE13S Repo
+# C Programs
 
-Repo to hold CSE13S work.
+Repo to hold C Programs from Comp Sci Engineering Class 13 from UCSC
+
+By Alejandra Sicairos
